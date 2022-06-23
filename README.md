@@ -10,4 +10,4 @@ Languages: Finnish, Swedish, English, German, Chinese
 
 Education: Helsinki University of Technology (did not graduate)
 
-Worked with software since: January 2007
+Employed by software projects since: January 2005
